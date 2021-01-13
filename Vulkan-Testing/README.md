@@ -7,12 +7,12 @@ Using this tutorial:
 
 ### Tutorial progress
 [ ] Drawing a triangle
-- [ ] Setup
+- [x] Setup
   - [x] [Base code](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code)
   - [x] [Instanse](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Instance)
   - [x] [Validation layers](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Validation_layers)
-  - [ ] [Physical devices and queue families](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Physical_devices_and_queue_families)
-  - [ ] [Logical device and queues](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Logical_device_and_queues)
+  - [x] [Physical devices and queue families](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Physical_devices_and_queue_families)
+  - [x] [Logical device and queues](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Logical_device_and_queues)
   
 - [ ] Presentation
   - [ ] [Windows presentation](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Window_surface)
