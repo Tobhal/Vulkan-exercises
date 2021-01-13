@@ -15,7 +15,7 @@ Using this tutorial:
   - [x] [Logical device and queues](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Logical_device_and_queues)
   
 - [ ] Presentation
-  - [ ] [Windows presentation](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Window_surface)
+  - [x] [Windows presentation](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Window_surface)
   - [ ] [Swap chain](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Swap_chain)
   - [ ] [Image views](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Image_views)
   
