@@ -34,15 +34,24 @@ Using this tutorial:
 - [ ] [Swap chain recreation](https://vulkan-tutorial.com/Drawing_a_triangle/Swap_chain_recreation)
 
 [ ] Vertex buffers
+- [ ] [Vortex input description](https://vulkan-tutorial.com/Drawing_a_triangle/Swap_chain_recreation)
+- [ ] [Vortex buffer creation](https://vulkan-tutorial.com/Vertex_buffers/Vertex_buffer_creation)
+- [ ] [Staging buffer](https://vulkan-tutorial.com/Vertex_buffers/Staging_buffer)
+- [ ] [Index buffer](https://vulkan-tutorial.com/Vertex_buffers/Index_buffer)
 
 [ ] Uniform buffers
+- [ ] [Descriptor layout and buffer](https://vulkan-tutorial.com/Uniform_buffers/Descriptor_layout_and_buffer)
+- [ ] [Descriptor pool and sets](https://vulkan-tutorial.com/Uniform_buffers/Descriptor_pool_and_sets)
 
 [ ] Texture mapping
+- [ ] [Images](https://vulkan-tutorial.com/Texture_mapping/Images)
+- [ ] [Image view and sampler](https://vulkan-tutorial.com/Texture_mapping/Image_view_and_sampler)
+- [ ] [Combined image sampler](https://vulkan-tutorial.com/Texture_mapping/Combined_image_sampler)
 
-[ ] Depth buffering 
+[ ] [Depth buffering](https://vulkan-tutorial.com/Depth_buffering) 
 
-[ ] Loading models
+[ ] [Loading models](https://vulkan-tutorial.com/Loading_models)
 
-[ ] Generating mipmaps
+[ ] [Generating mipmaps](https://vulkan-tutorial.com/Generating_Mipmaps)
 
-[ ] Multisampling
+[ ] [Multisampling](https://vulkan-tutorial.com/Multisampling)
