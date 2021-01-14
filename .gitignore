@@ -1,2 +1,8 @@
 
 Vulkan-Testing.xcodeproj/
+
+Vulkan-Testing/shaders/frag.spv
+
+Vulkan-Testing/shaders/vert.spv
+
+Vulkan-Testing/shaders/compile.sh
