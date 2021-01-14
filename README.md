@@ -6,6 +6,7 @@ Using this tutorial:
     https://vulkan-tutorial.com/Introduction
 
 ### Tutorial progress
+![50%](https://progress-bar.dev/50)
 
 - [ ] Drawing a triangle
 
