@@ -16,10 +16,10 @@ Using this tutorial:
     - [x] [Physical devices and queue families](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Physical_devices_and_queue_families)
     - [x] [Logical device and queues](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Logical_device_and_queues)
   
-  - [ ] Presentation
+  - [x] Presentation
     - [x] [Windows presentation](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Window_surface)
     - [x] [Swap chain](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Swap_chain)
-    - [ ] [Image views](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Image_views)
+    - [x] [Image views](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Image_views)
   
   - [ ] Graphics pipeline basics
     - [ ] [Introduction](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Introduction)
