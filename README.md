@@ -18,7 +18,7 @@ Using this tutorial:
   
   - [ ] Presentation
     - [x] [Windows presentation](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Window_surface)
-    - [ ] [Swap chain](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Swap_chain)
+    - [x] [Swap chain](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Swap_chain)
     - [ ] [Image views](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Image_views)
   
   - [ ] Graphics pipeline basics
