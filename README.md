@@ -7,7 +7,7 @@ Using this tutorial:
 
 ### Tutorial progress
 
-- [ ] Drawing a triangle ![50%](https://progress-bar.dev/50)
+- [ ] Drawing a triangle ![58%](https://progress-bar.dev/58)
 
   - [x] Setup ![100%](https://progress-bar.dev/100)
     - [x] [Base code](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code)
@@ -21,7 +21,7 @@ Using this tutorial:
     - [x] [Swap chain](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Swap_chain)
     - [x] [Image views](https://vulkan-tutorial.com/Drawing_a_triangle/Presentation/Image_views)
   
-  - [ ] Graphics pipeline basics ![100%](https://progress-bar.dev/100)
+  - [ ] Graphics pipeline basics ![40%](https://progress-bar.dev/40)
     - [x] [Introduction](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Introduction)
     - [x] [Shader modules](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Shader_modules)
     - [ ] [Fixed functions](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Fixed_functions)
