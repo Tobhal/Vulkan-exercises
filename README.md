@@ -7,7 +7,7 @@ Using this tutorial:
 
 ### Tutorial progress
 
-- [ ] Drawing a triangle ![76%](https://progress-bar.dev/76)
+- [ ] Drawing a triangle ![82%](https://progress-bar.dev/82)
 
   - [x] Setup ![100%](https://progress-bar.dev/100)
     - [x] [Base code](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code)
@@ -28,8 +28,8 @@ Using this tutorial:
     - [x] [Render passes](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Render_passes)
     - [x] [Conclusion](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Conclusion)
   
-  - [ ] Drawing ![0%](https://progress-bar.dev/0)
-    - [ ] [Frame buffers](https://vulkan-tutorial.com/Drawing_a_triangle/Drawing/Framebuffers)
+  - [ ] Drawing ![33%](https://progress-bar.dev/33)
+    - [x] [Frame buffers](https://vulkan-tutorial.com/Drawing_a_triangle/Drawing/Framebuffers)
     - [ ] [Command buffers](https://vulkan-tutorial.com/Drawing_a_triangle/Drawing/Command_buffers)
     - [ ] [Render and presentation](https://vulkan-tutorial.com/Drawing_a_triangle/Drawing/Rendering_and_presentation)
   
