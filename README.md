@@ -28,9 +28,9 @@ Using this tutorial:
     - [x] [Render passes](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Render_passes)
     - [x] [Conclusion](https://vulkan-tutorial.com/Drawing_a_triangle/Graphics_pipeline_basics/Conclusion)
   
-  - [ ] Drawing ![33%](https://progress-bar.dev/33)
+  - [ ] Drawing ![66%](https://progress-bar.dev/66)
     - [x] [Frame buffers](https://vulkan-tutorial.com/Drawing_a_triangle/Drawing/Framebuffers)
-    - [ ] [Command buffers](https://vulkan-tutorial.com/Drawing_a_triangle/Drawing/Command_buffers)
+    - [x] [Command buffers](https://vulkan-tutorial.com/Drawing_a_triangle/Drawing/Command_buffers)
     - [ ] [Render and presentation](https://vulkan-tutorial.com/Drawing_a_triangle/Drawing/Rendering_and_presentation)
   
   - [ ] [Swap chain recreation](https://vulkan-tutorial.com/Drawing_a_triangle/Swap_chain_recreation)
